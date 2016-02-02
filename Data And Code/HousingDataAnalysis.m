@@ -1,5 +1,7 @@
 % a function that does some pelinemary analysis on the Housing data
 % gathered from https://www.huduser.gov/portal/datasets/hads/hads.html. 
+% all the related data and code are available on github at:
+% https://github.com/saraaamin/Data-Incubator---Housing-data/tree/master/Data%20And%20Code
 function analyzeData()
 
 % load a small version of the dataset, no rows were truncated, however i
